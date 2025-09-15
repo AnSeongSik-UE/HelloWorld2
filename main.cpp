@@ -4,6 +4,9 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello World" << endl;
+	int FruitCount = 0;
+
+	cout << FruitCount << endl;
+
 	return 0;
 }
